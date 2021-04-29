@@ -6,5 +6,6 @@
 * [移除元素](https://leetcode-cn.com/problems/remove-element/)
 * [实现strStr()](https://leetcode-cn.com/problems/implement-strstr/)
 * [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)
+* [加一](https://leetcode-cn.com/problems/plus-one/)
 * 
 
