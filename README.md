@@ -11,5 +11,6 @@
 * [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)
 * [最大子序和](https://leetcode-cn.com/problems/maximum-subarray)
 * [只出现一次的数字](https://leetcode-cn.com/problems/single-number)
+* [位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)
 * 
 
