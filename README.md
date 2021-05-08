@@ -18,5 +18,6 @@
 * [找不同](https://leetcode-cn.com/problems/find-the-difference/)
 * [字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string/submissions/)
 * [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays)
+* [单词规律](https://leetcode-cn.com/problems/word-pattern)
 * 
 
