@@ -107,11 +107,35 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../Useful/PyCharm/Temp/leetcode/editor/cn/[263]丑数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../../Useful/PyCharm/Temp/leetcode/editor/cn/[263]丑数.py" />
+              <option name="questionId" value="263" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Useful/PyCharm/Temp/leetcode/editor/cn/[268]丢失的数字.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../../Useful/PyCharm/Temp/leetcode/editor/cn/[268]丢失的数字.py" />
+              <option name="questionId" value="268" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../Useful/PyCharm/Temp/leetcode/editor/cn/[26]删除有序数组中的重复项.py">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/../../../Useful/PyCharm/Temp/leetcode/editor/cn/[26]删除有序数组中的重复项.py" />
               <option name="questionId" value="26" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Useful/PyCharm/Temp/leetcode/editor/cn/[283]移动零.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../../Useful/PyCharm/Temp/leetcode/editor/cn/[283]移动零.py" />
+              <option name="questionId" value="283" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -200,6 +224,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/../../../Useful/PyCharm/Temp/leetcode/editor/cn/[461]汉明距离.py" />
               <option name="questionId" value="461" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Useful/PyCharm/Temp/leetcode/editor/cn/[520]检测大写字母.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../../Useful/PyCharm/Temp/leetcode/editor/cn/[520]检测大写字母.py" />
+              <option name="questionId" value="520" />
             </LeetcodeEditor>
           </value>
         </entry>
