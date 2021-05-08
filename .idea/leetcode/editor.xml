@@ -131,11 +131,27 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../Useful/PyCharm/Temp/leetcode/editor/cn/[389]找不同.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../../Useful/PyCharm/Temp/leetcode/editor/cn/[389]找不同.py" />
+              <option name="questionId" value="389" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../Useful/PyCharm/Temp/leetcode/editor/cn/[38]外观数列.py">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/../../../Useful/PyCharm/Temp/leetcode/editor/cn/[38]外观数列.py" />
               <option name="questionId" value="38" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Useful/PyCharm/Temp/leetcode/editor/cn/[415]字符串相加.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../../Useful/PyCharm/Temp/leetcode/editor/cn/[415]字符串相加.py" />
+              <option name="questionId" value="415" />
             </LeetcodeEditor>
           </value>
         </entry>
