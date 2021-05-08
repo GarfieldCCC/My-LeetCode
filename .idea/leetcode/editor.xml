@@ -131,6 +131,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../Useful/PyCharm/Temp/leetcode/editor/cn/[374]猜数字大小.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../../Useful/PyCharm/Temp/leetcode/editor/cn/[374]猜数字大小.py" />
+              <option name="questionId" value="374" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../Useful/PyCharm/Temp/leetcode/editor/cn/[389]找不同.py">
           <value>
             <LeetcodeEditor>
@@ -147,11 +155,27 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../Useful/PyCharm/Temp/leetcode/editor/cn/[414]第三大的数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../../Useful/PyCharm/Temp/leetcode/editor/cn/[414]第三大的数.py" />
+              <option name="questionId" value="414" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../Useful/PyCharm/Temp/leetcode/editor/cn/[415]字符串相加.py">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/../../../Useful/PyCharm/Temp/leetcode/editor/cn/[415]字符串相加.py" />
               <option name="questionId" value="415" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../Useful/PyCharm/Temp/leetcode/editor/cn/[434]字符串中的单词数.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/../../../Useful/PyCharm/Temp/leetcode/editor/cn/[434]字符串中的单词数.py" />
+              <option name="questionId" value="434" />
             </LeetcodeEditor>
           </value>
         </entry>
